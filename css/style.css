@@ -1,0 +1,24 @@
+.box{
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: inset;
+    margin-left: 35%;
+    margin-top: 2%;
+    padding: 10px;
+    margin-right: 35%;
+
+}
+.bi{
+    background: url("https://www.mercedes-benz.co.in/content/india/en/passengercars/finance/financing-leasing/_jcr_content/root/responsivegrid/simple_stage_copy.component.damq5.3386342791855.jpg/4621513_168_MBFS_Dealership_Cars_EQS_International_OneWeb_.jpghttps://www.mercedes-benz.co.in/content/india/en/passengercars/finance/financing-leasing/_jcr_content/root/responsivegrid/simple_stage_copy.component.damq5.3386342791855.jpg/4621513_168_MBFS_Dealership_Cars_EQS_International_OneWeb_.jpg");
+    background-size: 1480px;
+}
+.abc{
+    padding-left: 100px;
+    margin-top: 200px;
+    
+
+}
+.bbc{
+    padding-left: 100px;
+    margin-top: 200px;
+}
